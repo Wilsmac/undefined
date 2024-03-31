@@ -1,12 +1,4 @@
 #!/usr/bin/bash
-clear
-# License: See the license file included in the repository on github:
-#          https://github.com/asreimer/bash_hangman
-# ---
-# Date: Fall 2019
-declare -a word
-declare -a word_img
-declare -a alpha_img
 i=0
 incorrect=0
 wordindex=0
